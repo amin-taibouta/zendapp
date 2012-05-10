@@ -6,3 +6,6 @@
  */
 echo "Contact Form here";
 ?>
+<form action="#" methode="POST">
+    <input name="input" type="text" value="Hello GIT"/>
+    </form>
