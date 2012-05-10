@@ -7,5 +7,7 @@
 echo "Contact Form here";
 ?>
 <form action="#" methode="POST">
-    <input name="input" type="text" value="Hello GIT"/>
-    </form>
+<input name="input" type="text" value="Hello GIT"/>
+<input name="name" type="text" value="amin">
+</form>
+
