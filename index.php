@@ -6,4 +6,5 @@
  */
 echo "Hello GIT";
 echo "Header Creation";
+echo "Footer Creation";
 ?>
